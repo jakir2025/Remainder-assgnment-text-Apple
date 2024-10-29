@@ -1,0 +1,216 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+.container{
+    background-color: black;
+    height: 580px;
+    width: 350px;
+    margin: auto;
+}
+.header{
+    margin-left: 160px;
+    margin-top: 5px;
+    padding-top: 10px;
+}
+.heading1{
+    color: white;
+    margin-left: 24px;
+    padding-top: 50px;
+    padding-bottom: 20px;
+   
+}
+.Sign1{
+    background-color: white;
+    height: 35px;
+    width: 250px;
+    margin-left: 30px;
+    border-radius: 12px;
+  
+   
+}
+.Apple{
+   
+    height: 15px;
+    width: 80px;
+    margin-top: 3px;
+    padding-top: 5px;
+}
+.dibet{
+    color: white;
+    margin-left: 150px;
+    font-size: 20px;
+    margin-top: 5px;
+    
+}
+.email1{
+    margin-left: 40px;
+    margin-top: 10px;
+    padding: 10px;
+    padding-left: 70px;
+    border: 1px solid white;
+    background-color: black;
+}
+.ntxa{
+    background-color: white;
+    margin-top: 15px;
+    margin-left: 30px;
+    text-align: center;
+    width: 270px;
+    border-radius: 12px;
+    /* font-size: 20px; */
+}
+.forgotw{
+    border: 1px solid white;
+    background-color: black;
+    color: white;
+    margin-top: 20px;
+    margin-left: 30px;
+    width: 270px;
+    border-radius: 12px;
+    text-align: center;
+}
+.pss1{
+    background-color: white;
+    border: 1px solid black;
+    height: 570px;
+    width: 300px;
+    margin: auto;
+    padding-top: 150px;
+    
+    
+}
+.email2{
+padding-top: 5px;
+padding-left: 135px;
+margin-bottom: 2px;
+}
+.pass2{
+    padding-top: 5px;
+    padding-left: 135px;
+   
+}
+.lgn{
+    margin-top: 5px;
+    margin-left: 110px;
+    margin-right: 110px;
+    padding: 6px;
+    background-color: aqua;
+    text-align: center;
+}
+.Apple1{
+    margin-left: 35px;
+}
+.heading2{
+    background-color: white;
+    border: 1px solid black;
+    height: 580px;
+    width: 350px;
+    margin: auto;
+}
+.png1{
+    margin-left: 100px;
+    margin-top: 8px;
+}
+.pass3{
+    margin-top: 6px;
+    margin-left: 50px;
+    padding-left: 40px;
+}
+.pass4{
+    margin-top: 6px;
+    margin-left: 50px;
+    padding-left: 40px; 
+}
+.pass5{
+    margin-top: 6px;
+    margin-left: 50px;
+    padding-left: 40px; 
+}
+.btn1{
+    margin-top: 6px;
+    margin-left: 120px;
+    margin-right: 150px; 
+    padding: 6px;
+    background-color: aqua;
+}
+.img12{
+    margin-left: 350px;
+}
+.frm11{
+    background-color: white;
+    border: 1px solid black;
+    height: 500px;
+    width: 1000px;
+    margin: auto;
+}
+.aaaa{
+    margin-top: 6px;
+    margin-left: 370px;
+}
+.Fulla{
+    margin-top: 6px;
+    margin-left: 370px;
+    padding: 6px;
+    padding-right: 100px;
+}
+.fn{
+    margin-top: 6px;
+    margin-left: 370px;
+    padding: 6px;
+    padding-right: 100px;
+}
+.mn{
+    margin-top: 6px;
+    margin-left: 370px;
+    padding: 6px;
+    padding-right: 100px; 
+}
+.ln{
+    margin-top: 6px;
+    margin-left: 370px;
+    padding: 6px;
+    padding-right: 100px 
+}
+.db{
+    margin-top: 6px;
+    margin-left: 370px;
+    padding: 6px;
+    padding-right: 100px  
+}
+.nt{
+    margin-top: 6px;
+    margin-left: 370px;
+    padding: 6px;
+    padding-right: 100px
+
+}
+.gd1{
+    margin-top: 6px;
+    margin-left: 370px;
+    padding: 6px;
+    padding-right: 100px    
+}
+.ck3{
+    margin-top: 6px;
+    margin-left: 370px;
+    padding: 6px;
+    padding-right: 100px   
+}
+.ck4{
+    margin-top: 6px;
+    margin-left: 370px;
+    padding: 6px;
+    padding-right: 100px   
+}
+.tttt{
+    margin-top: 6px;
+  margin-left: 370px;
+  margin-right: 560px;
+  background-color: blueviolet;
+ 
+}
+.pgp1{
+    margin-top: 6px;
+    margin-left: 370px;
+}
